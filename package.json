@@ -10,7 +10,7 @@
     "vue": "^3.2.13"
   },
   "devDependencies": {
-    "@gdjy/cli-service": "^0.0.1",
+    "@gdjy/cli-service": "^0.0.2",
 	"vue-loader": "^17.0.1"
   },
   "browserslist": [
